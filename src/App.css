@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.changecolor{
+  color: red;
+}
+.multiselect{
+  /* width: 50%; */
+  color: white;
+  font-size: 20px;
+  padding:30px;
+  background-color: #2065d1;
+  border: none;
+}
+.adjust{
+  padding: 20px;
+}
